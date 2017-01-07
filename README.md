@@ -1,6 +1,8 @@
 # projet_BMP
 This project is developed in C and deals with BMP images. The images are converted to an array of bytes, then we detect all the outlines of the image. Once we have detected all the contours, we create a tree corresponding to the image. Also, we can create a BMP image from a tree.
 
+## Update
+Dernière mise à jour : 2016-02-06
 ## Licence
 
 Copyright 2016 ISEN
