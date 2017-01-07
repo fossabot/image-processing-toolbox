@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="BmpLib.h" open="0" top="0" tabpos="0">
+		<Cursor position="450" topLine="10" />
+	</File>
+	<File name="constantes.h" open="0" top="0" tabpos="0">
+		<Cursor position="181" topLine="0" />
+	</File>
+	<File name="fonctionsPartieDeux.c" open="0" top="0" tabpos="2">
+		<Cursor position="6945" topLine="250" />
+	</File>
+	<File name="fonctionsPartieDeux.h" open="0" top="0" tabpos="0">
+		<Cursor position="1485" topLine="13" />
+	</File>
+	<File name="fonctionsPartieTrois.c" open="1" top="1" tabpos="2">
+		<Cursor position="142" topLine="0" />
+	</File>
+	<File name="fonctionsPartieTrois.h" open="0" top="0" tabpos="0">
+		<Cursor position="442" topLine="20" />
+	</File>
+	<File name="fonctionsPartieUn.c" open="0" top="0" tabpos="0">
+		<Cursor position="4278" topLine="135" />
+	</File>
+	<File name="fonctionsPartieUn.h" open="0" top="0" tabpos="0">
+		<Cursor position="784" topLine="51" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="68" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

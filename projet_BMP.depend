@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1420587492 source:d:\mes documents\cir3\1er sem\algo\projet_bmp\main.c
+	"fonctionsPartieUn.h"
+	"fonctionsPartieDeux.h"
+	"fonctionsPartieTrois.h"
+
+1420577106 d:\mes documents\cir3\1er sem\algo\projet_bmp\fonctionspartieun.h
+	"constantes.h"
+
+1420494992 d:\mes documents\cir3\1er sem\algo\projet_bmp\constantes.h
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<math.h>
+	<string.h>
+	"BmpLib.h"
+	"OutilsLib.h"
+
+1420471357 d:\mes documents\cir3\1er sem\algo\projet_bmp\bmplib.h
+	<stdbool.h>
+
+1416246410 d:\mes documents\cir3\1er sem\algo\projet_bmp\outilslib.h
+
+1420479000 source:d:\mes documents\cir3\1er sem\algo\projet_bmp\outilslib.c
+	"OutilsLib.h"
+	<stdbool.h>
+
+1420584203 source:d:\mes documents\cir3\1er sem\algo\projet_bmp\fonctionspartiedeux.c
+	"fonctionsPartieDeux.h"
+
+1420586499 source:d:\mes documents\cir3\1er sem\algo\projet_bmp\fonctionspartietrois.c
+	"fonctionsPartieTrois.h"
+
+1420585920 source:d:\mes documents\cir3\1er sem\algo\projet_bmp\fonctionspartieun.c
+	"fonctionsPartieUn.h"
+
+1420478956 source:d:\mes documents\cir3\1er sem\algo\projet_bmp\bmplib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BmpLib.h"
+	"OutilsLib.h"
+
+1420579598 d:\mes documents\cir3\1er sem\algo\projet_bmp\fonctionspartiedeux.h
+	"constantes.h"
+
+1420586150 d:\mes documents\cir3\1er sem\algo\projet_bmp\fonctionspartietrois.h
+	"fonctionsPartieDeux.h"
+	"constantes.h"
+
