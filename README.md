@@ -1,4 +1,5 @@
 [![License](https://img.shields.io/:license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Folivierschultz%2Fimage-processing-toolbox.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Folivierschultz%2Fimage-processing-toolbox?ref=badge_shield)
 
 # projet_BMP
 
@@ -29,3 +30,6 @@ Last update: 2016-02-06
 MIT License
 
 Copyright (c) 2016 Olivier Schultz
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Folivierschultz%2Fimage-processing-toolbox.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Folivierschultz%2Fimage-processing-toolbox?ref=badge_large)
