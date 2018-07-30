@@ -2,7 +2,7 @@
 
 ## Summary
 
-The goal of this project is to make different image processing in BMP format.
+Image processing Toolbox.
 
 ## OS Support
 
